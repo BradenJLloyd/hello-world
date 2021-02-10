@@ -1,3 +1,5 @@
 # hello-world
 First repository
-QUIT LAW AND CODE BITCH
+
+PLEASE quit law and code
+
